@@ -2,9 +2,11 @@ RENCANA ALL
 -Javascript
   *ES6
   *Framework js
-   ^Angular
+   ^Vue
    ^React
+-Struktur data dasar
 -PHP Framework
    ^Laravel
 -Interview
 -Vlog
+-Python
