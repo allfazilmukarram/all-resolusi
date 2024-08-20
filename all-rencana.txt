@@ -3,6 +3,7 @@ RENCANA ALL
   *ES6
   *Framework js
    ^Vue
+   ^React
 -Struktur data dasar
 -PHP Framework
    ^Laravel
